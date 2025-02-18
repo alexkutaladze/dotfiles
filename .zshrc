@@ -107,4 +107,8 @@ alias vim="nvim"
 
 # zoxide
 eval "$(zoxide init --cmd cd zsh)"
+
 eval "$(fzf --zsh)"
+
+# Bat
+export BAT_THEME=Catppuccin%20Mocha
