@@ -1,0 +1,10 @@
+commitizen
+fd
+fzf
+lazygit
+neovim
+ripgrep
+stow
+tmux
+tree
+zoxide
