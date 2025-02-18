@@ -6,6 +6,6 @@ neovim
 ripgrep
 stow
 tmux
-tree
 zoxide
 bat
+eza
