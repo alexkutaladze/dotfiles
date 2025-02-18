@@ -107,3 +107,4 @@ alias vim="nvim"
 
 # zoxide
 eval "$(zoxide init --cmd cd zsh)"
+eval "$(fzf --zsh)"
