@@ -4,11 +4,12 @@ return {
   opts = {
     picker = {
       -- Always show hidden files
-      hidden = true,
       sources = {
         explorer = {
+          hidden = true,
+          ignored = true,
           -- Position the explorer on the right
-          layout = { layout = { position = "right" } },
+          layout = { layout = { position = "right", width = 30 } },
         },
       },
     },
