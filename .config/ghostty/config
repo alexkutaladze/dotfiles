@@ -9,4 +9,3 @@ font-feature = -calt, -liga, -dlig
 background-opacity = 0.5
 background-blur = true
 window-decoration = none
-window-padding-balance = true
